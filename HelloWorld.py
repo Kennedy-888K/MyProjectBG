@@ -1,0 +1,3 @@
+# Meu primeiro programa escrito em Phyton...
+print("Olá Mundo!")
+print("If think that I'm really \"Special\"!")
